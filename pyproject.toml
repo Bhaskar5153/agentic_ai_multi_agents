@@ -1,0 +1,15 @@
+[project]
+name = "agentic-ai-multi-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google>=3.0.0",
+    "google-adk>=1.25.0",
+    "google-genai>=1.63.0",
+    "pandas>=3.0.0",
+    "pymupdf>=1.27.1",
+    "python-docx>=1.2.0",
+    "python-pptx>=1.0.2",
+]
